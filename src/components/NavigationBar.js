@@ -4,7 +4,7 @@ import { Nav, Navbar, Form, FormControl, Button } from 'react-bootstrap'
 
 
 
-// add random
+// add random sth
 
 const NavigationBar = () => {
 
